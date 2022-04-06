@@ -2,10 +2,11 @@
     "name": "sta shared content",
     "title": "sta shared content",
     "description": "omooswald sta stuff",
-    "version": "1.0.0",
+    "version": "",
     "author": "omooswald",
     "minimumCoreVersion": "9",
     "compatibleCoreVersion": "9",
+    
     "packs": [
         {
             "name": "sta-creatures",
