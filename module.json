@@ -72,6 +72,6 @@
         }
     ],
     "manifest": "https://github.com/omooswald/STA-shared-content/blob/main/module.json",
-    "download": "",
+    "download": "https://github.com/omooswald/STA-shared-content/archive/refs/heads/main.zip",
     "url": "https://github.com/omooswald/STA-shared-content"
   }
