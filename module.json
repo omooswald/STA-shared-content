@@ -72,7 +72,7 @@
         }
     ],
 
-    "manifest": "https://github.com/omooswald/STA-shared-content/blob/muster/module.json",
-    "download": "https://github.com/omooswald/STA-shared-content/archive/refs/tags/muster.zip",
-    "url": "https://github.com/omooswald/STA-shared-content/tree/muster"
+    "manifest": "",
+    "download": "",
+    "url": ""
   }
