@@ -71,6 +71,6 @@
             "type": "Playlist"
         }
     ],
-    "manifest": "",
+    "manifest": "https://github.com/omooswald/STA-shared-content/blob/main/module.json",
     "download": ""
   }
