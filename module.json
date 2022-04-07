@@ -2,7 +2,7 @@
     "name": "STA-shared-content",
     "title": "sta shared content",
     "description": "omooswald sta stuff",
-    "version": "",
+    "version": "1.0.1",
     "author": "omooswald",
     "minimumCoreVersion": "9",
     "compatibleCoreVersion": "9",
@@ -73,7 +73,7 @@
         }
     ],
 
-    "manifest": "",
-    "download": "",
+    "manifest": "https://github.com/omooswald/STA-shared-content/releases/download/1.0.1/module.json",
+    "download": "https://github.com/omooswald/STA-shared-content/releases/download/1.0.1/STA-shared-content.zip",
     "url": ""
   }
