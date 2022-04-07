@@ -6,7 +6,6 @@
     "author": "omooswald",
     "minimumCoreVersion": "9",
     "compatibleCoreVersion": "9",
-    
     "packs": [
         {
             "name": "sta-creatures",
@@ -72,8 +71,7 @@
             "type": "Playlist"
         }
     ],
-
     "manifest": "https://github.com/omooswald/STA-shared-content/releases/download/1.0.1/module.json",
     "download": "https://github.com/omooswald/STA-shared-content/releases/download/1.0.1/STA-shared-content.zip",
-    "url": ""
+    "url": "https://github.com/omooswald/STA-shared-content"
   }
